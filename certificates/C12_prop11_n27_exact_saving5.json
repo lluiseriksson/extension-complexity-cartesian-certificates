@@ -1,0 +1,11 @@
+{
+  "schema_version": "EXT-COMPLEXITY-PROD-CERT-1.0",
+  "certificate_id": "C12_prop11_n27_exact_saving5",
+  "paper_reference": "Liu (arXiv:2611.33631v1), Sec. 6.2-6.3 Theorem 2 Exact Multiple n=27 (saving >= 5)",
+  "mode": "linear_fraction_deficit_Un_Vn",
+  "payload": {
+    "submode": "prop11_conditional_counting_deficit",
+    "num_blocks_n": 27,
+    "edge_copies_N": 6
+  }
+}

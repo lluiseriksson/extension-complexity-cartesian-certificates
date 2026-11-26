@@ -1,0 +1,14 @@
+{
+  "schema_version": "EXT-COMPLEXITY-PROD-CERT-1.0",
+  "certificate_id": "C13_square_alphabet_t2_j2_4",
+  "paper_reference": "Liu (arXiv:2611.33631v1), Sec. 6.4 Lemmas 12-13 (t=2, j=[2,4], deficit>=2)",
+  "mode": "unbounded_square_and_corollaries",
+  "payload": {
+    "submode": "alphabet_separation_and_lemma12_13",
+    "j_sequence": [
+      2,
+      4
+    ],
+    "sqrt_Lambda": 10000000000
+  }
+}

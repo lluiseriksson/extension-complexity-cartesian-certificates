@@ -1,0 +1,10 @@
+{
+  "schema_version": "EXT-COMPLEXITY-PROD-CERT-1.0",
+  "certificate_id": "C06_twin_hexagon_S_S1S_L5e6",
+  "paper_reference": "Liu (arXiv:2611.33631v1), Sec. 3 Lemma 7 & Eq. (4.1) (L = 5*10^6)",
+  "mode": "six_cycle_subadditivity_and_bounds",
+  "payload": {
+    "submode": "exact_factorizations_S_and_S1S",
+    "scale_L": 5000000
+  }
+}

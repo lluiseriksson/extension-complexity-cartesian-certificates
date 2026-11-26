@@ -1,0 +1,11 @@
+{
+  "schema_version": "EXT-COMPLEXITY-PROD-CERT-1.0",
+  "certificate_id": "C11_prop11_n6_first_saving2",
+  "paper_reference": "Liu (arXiv:2611.33631v1), Sec. 6.2 Prop. 11 Example n=6 (450+440-888=2)",
+  "mode": "linear_fraction_deficit_Un_Vn",
+  "payload": {
+    "submode": "prop11_conditional_counting_deficit",
+    "num_blocks_n": 6,
+    "edge_copies_N": 6
+  }
+}

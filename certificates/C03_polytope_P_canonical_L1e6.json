@@ -1,0 +1,10 @@
+{
+  "schema_version": "EXT-COMPLEXITY-PROD-CERT-1.0",
+  "certificate_id": "C03_polytope_P_canonical_L1e6",
+  "paper_reference": "Liu (arXiv:2611.33631v1), Sec. 5 Prop. 10 & Theorem 1 (L = 10^6)",
+  "mode": "wedge_transfer_and_slack_polytope",
+  "payload": {
+    "submode": "polytope_B_and_P_exact_facets",
+    "scale_L": 1000000
+  }
+}

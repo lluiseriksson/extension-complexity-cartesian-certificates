@@ -1,0 +1,7 @@
+name = "extension_complexity_cert"
+version = "0.1.0"
+defaultTargets = ["ExtensionComplexityCert"]
+
+[[lean_lib]]
+name = "ExtensionComplexityCert"
+moreLeanArgs = ["-j", "1"]

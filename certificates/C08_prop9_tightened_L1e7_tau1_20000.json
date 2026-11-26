@@ -1,0 +1,14 @@
+{
+  "schema_version": "EXT-COMPLEXITY-PROD-CERT-1.0",
+  "certificate_id": "C08_prop9_tightened_L1e7_tau1_20000",
+  "paper_reference": "Liu (arXiv:2611.33631v1), Sec. 4 Prop. 9 Tightened Margin",
+  "mode": "six_cycle_subadditivity_and_bounds",
+  "payload": {
+    "submode": "proposition9_quantitative_claims",
+    "scale_L": 10000000,
+    "tau": [
+      1,
+      20000
+    ]
+  }
+}

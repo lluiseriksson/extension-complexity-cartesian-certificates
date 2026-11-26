@@ -1,0 +1,24 @@
+{
+  "schema_version": "EXT-COMPLEXITY-PROD-CERT-1.0",
+  "certificate_id": "C16_corollaries_and_channel_d176",
+  "paper_reference": "Liu (arXiv:2611.33631v1), Sec. 7 Corollaries 14-15 & 9->8 Bit Channel Sim (Delta_176)",
+  "mode": "unbounded_square_and_corollaries",
+  "payload": {
+    "submode": "corollaries_polarity_and_channel_sim",
+    "power_m_values": [
+      4,
+      8,
+      16,
+      32,
+      64
+    ],
+    "simplex_k_values": [
+      3,
+      7,
+      15,
+      31,
+      176
+    ],
+    "channel_simplex_dim": 176
+  }
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Exact Rational and Constructive Lean 4 Certificates for Non-Additivity of Extension Complexity Under Cartesian Products"
+message: "If you use these verification artifacts, please cite this companion repository and the primary preprint arXiv:2611.33631v1."
+type: software
+authors:
+  - family-names: Eriksson
+    given-names: Lluis
+repository-code: "https://github.com/lluiseriksson/extension-complexity-cartesian-certificates"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-26
